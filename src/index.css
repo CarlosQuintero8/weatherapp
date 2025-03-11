@@ -1,0 +1,47 @@
+:root {
+	line-height: 1.5;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+input[type='text'] {
+	padding: 0.5rem;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	font-size: 1rem;
+	margin-right: 0.5rem;
+	outline: none;
+	border-color: #006eff;
+	box-shadow: 0 0 5px rgba(0, 110, 255, 0.5);
+}
+
+button {
+	padding: 0.5rem 1rem;
+	background-color: #006eff;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #0056cc;
+}
+
+input[type='text'],
+button {
+	vertical-align: middle;
+}
