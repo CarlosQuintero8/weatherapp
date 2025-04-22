@@ -1,4 +1,5 @@
 WeatherApp
+
 WeatherApp es una aplicación web que proporciona información meteorológica en tiempo real para cualquier ciudad del mundo. Utiliza la API de OpenWeatherMap para obtener datos actualizados sobre el clima, incluyendo temperatura, humedad, velocidad del viento y condiciones climáticas. La aplicación cuenta con una interfaz sencilla y responsiva, diseñada para ofrecer una experiencia de usuario amigable.
 
 Características
